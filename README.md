@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install LundViewTool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+@copyright = LundViewTool::Renderer.copyright 'Casey Lund', 'All rights reserved'
+```
 
 ## Development
 
